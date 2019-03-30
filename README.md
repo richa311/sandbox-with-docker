@@ -1,1 +1,1 @@
-# getSanbox
+# getSandbox
